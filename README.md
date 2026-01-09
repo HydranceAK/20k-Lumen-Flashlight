@@ -83,6 +83,9 @@ I am not responsible for any damage, injury, or misuse involving this design.
 **YouTube: https://youtube.com/@HydranceYT**
 
 
+<img width="822" height="513" alt="image" src="https://github.com/user-attachments/assets/1b15ba3a-d672-4e3f-b2f6-0081d3502583" />
+
+<img width="787" height="626" alt="image" src="https://github.com/user-attachments/assets/5da9f7e6-3a93-4fb6-a4a0-d139250d967c" />
 
 
 
