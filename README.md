@@ -1,20 +1,8 @@
 **3d Printed Flashlight - Aprox 20k Lumens**
 
-
-
-
-
 This is a fully 3d printed flashlight I've designed and created from scratch. Designed and Engineered by *Hydrance*
 
-
-
-
-
-
-
 <b>Features:</b>
-
-
 
 * Battery Indicator
 * Estimated 30 min life
@@ -23,49 +11,85 @@ This is a fully 3d printed flashlight I've designed and created from scratch. De
 * Water Resistant (NOT WATERPROOF!)
 * Much cheaper than similar commercial products (they go up to $300)
 * As cheap as possible ($100)
-
-
-
-
-
-
+* 
 
 Printing Notes:
 
-
-
-
-
 I recommend you print with at the least PETG filament, do NOT use PLA, its heat resistance is really low and the flashlight will DEFFINITELY melt or even catch fire if you run it for too long. If you have the budget and you want something indestructible in all senses, use PA6-CF or PA12-CF. Their heat resistance is off the charts, and strength is exceptional.
 
-
-
 Everything will be able to be printed on the Bambu Lab a1. You can print it on even smaller printers like the a1 mini, ender 3 pro, or more. The parts are under 100mm in all dimensions. 
-
-
-
 
 
 **DISCLAIMERS:**
 
 
-
 leds CAN be really bright and harmful to stare at, can cause eye damage, please use with care.
-
-
 
 leds WILL get extremely hot, please do not touch with bare hands while or less than 5 minutes after running.
 
-
-
 Always use in cool environment to reduce the risk of meltdown.
-
-
 
 I am not responsible for any damage, injury, or misuse involving this design. 
 
 
+Bill of Materials:
 
+- USB C Charing chip. Needed to charge the batteries
+- Main switch. High current and will be used for the LEDS
+- Tiny Switch. Low current switch, will be used for the battery indicator.
+- Battery Indicator. Used to show the battery percentage level.
+- Fan. Used to cool the LEDs and heatsink
+- Heatsink. Absorbs the heat from the LEDs
+- Batteries
+- LEDs. Main source of light
+- Reflective Cones. Used to concentrate the light from the LEDs onto one place.
+
+In detailed description (all prices in CAD):
+
+- 1 unit
+- $1.90 
+- Charging Chip
+- https://www.aliexpress.com/item/1005004846748321.html
+
+- 10 units (cant purchase one)
+- $6.67 
+- Switch
+- https://www.aliexpress.com/item/1005007396573433.html
+
+- 1 units 
+- $3.18 
+- Switch
+- https://www.aliexpress.com/item/1005006953954542.html
+
+- 1 units 
+- $2.99
+- Battery Level Indicator
+- https://www.aliexpress.com/item/1005008464466886.html
+
+- 1 units 
+- $11.68
+- Fan
+- https://www.aliexpress.com/item/1005008579692532.html
+
+- 2 units 
+- $17.69
+- Batteries
+- https://www.aliexpress.com/item/1005008019057031.html
+
+- 5 units 
+- $28
+- LEDs
+- https://www.aliexpress.com/item/1005006727275886.html
+
+- 5 units 
+- $12
+- Reflective Cones
+- https://www.aliexpress.com/item/1005005841167657.html
+
+- 1 units 
+- $12
+- Heatsink
+- https://www.aliexpress.com/item/1005005364176768.html
 
 
 **Contact**
