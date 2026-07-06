@@ -46,16 +46,7 @@ Bill of Materials:
 
 In detailed description (all prices in CAD):
 
-Quantity	Price_USD	Item_Description	Notes	URL
-1	1.9	Charging Chip		https://www.aliexpress.com/item/1005004846748321.html
-10	6.67	Switch	cant purchase one	https://www.aliexpress.com/item/1005007396573433.html
-1	3.18	Switch		https://www.aliexpress.com/item/1005006953954542.html
-1	2.99	Battery Level Indicator		https://www.aliexpress.com/item/1005008464466886.html
-1	11.68	Fan		https://www.aliexpress.com/item/1005008579692532.html
-2	17.69	Batteries		https://www.aliexpress.com/item/1005008019057031.html
-5	28.0	LEDs		https://www.aliexpress.com/item/1005006727275886.html
-5	12.0	Reflective Cones		https://www.aliexpress.com/item/1005005841167657.html
-1	12.0	Heatsink		https://www.aliexpress.com/item/1005005364176768.html
+<img width="827" height="345" alt="image" src="https://github.com/user-attachments/assets/a01b71f5-adfa-4484-a79f-54b61c71bc24" />
 
 
 **Contact**
